@@ -1,16 +1,19 @@
-## Hi there 👋
+##👋 Hi, I'm Pavan!
+🎓 Third-year Computer Science student passionate about solving real-world problems using technology.
+💡 I build AI, Web, and Cloud-based projects with a focus on usability and performance.
+🌱 Currently learning: Cloud Computing, Dynamic Programming, and Graph Algorithms
+👨‍💻 Hackathons | Open Source Enthusiast | Fast Learner
+📫 How to reach me: pavanmiryala354@gmail.com
 
-<!--
-**PavanMiryala/PavanMiryala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🔧 Tech Stack:
+🌐 Frontend: React, HTML, CSS, JavaScript
+🧠 AI/ML: Python, Scikit-learn, Mistral, LLaMA, TensorFlow
+🔙 Backend: Flask, Spring Boot, Express.js
+💾 Database: PostgreSQL, MySQL, Firebase
+☁️ Cloud: AWS, Heroku (basics)
+🚀 Featured Projects:
+🧬 AI Cotton Plant Disease Detector – ML-powered tool to detect diseases with LLaMA/Mistral and suggest cures.
+🧑‍💼 Applicant Tracking System - currently working on it.
+Thanks for visiting my profile! 😄
