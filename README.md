@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Pavan!
 
-🎓 I'm a third-year Computer Science student passionate about building technology that solves real-world problems.  
+🎓 I'm a Fourth-year Computer Science student passionate about building technology that solves real-world problems.  
 💡 I love creating AI, Web, and Cloud-based projects that emphasize usability and performance.  
 🌱 Currently exploring: **Cloud Computing**, **Dynamic Programming**, and **Graph Algorithms**  
 👨‍💻 Hackathon enthusiast • Open Source contributor • Fast learner
